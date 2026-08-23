@@ -1,0 +1,13 @@
+# 构建源码与本地产物不进 Pages 仓库(部署产物即 index.html 等根目录静态文件)
+_build.py
+_content.py
+_audio.py
+_tts_zh.py
+__pycache__/
+DEPLOY.md
+castle-pwa.zip
+supabase_schema.sql
+supabase_schema_min.sql
+*.png.bak
+.vscode/
+*.log
